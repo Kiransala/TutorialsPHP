@@ -1,6 +1,6 @@
 <html>
 <body>
-  <form action='tutorial.php' method='POST'>
+  <form action='post.php' method='POST'>
     <h3>Enter password:</h3>
     <input type='password' name='password'><br>
     <input type='submit' value='Click here'>
